@@ -7,6 +7,7 @@ Este é um projeto de uma página de destino (landing page) para NFTs.
 
 ---
 
-Tecnologias utilizadas:
-- HTML
-- CSS
+## Tecnologias utilizadas:
+
+- HTML ![62.3%](https://progress-bar.dev/90)
+- CSS ![37.7%](https://progress-bar.dev/80)
