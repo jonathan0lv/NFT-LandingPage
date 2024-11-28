@@ -1,13 +1,15 @@
-# NFT Landing Page
+# Nft Landing Page
 
-Este é um projeto de uma página de destino (landing page) para NFTs.
+## 🖋️ Sobre
+Este é um projeto de uma simples página de destino (landing page) para NFTs.
 
-### Acesse o site ativo:
-[Visite o site](https://web-nft-landing-page.netlify.app/)
+## 🚀 Tecnologias
+<div>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white">
+</div>
 
----
+## 🧑‍💻 Time
 
-## Tecnologias utilizadas:
-
-- HTML 🟧🟧🟧🟧🟧🟧🟧🟧⬜⬜ 62.3%
-- CSS 🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜ 37.7%
+| <img loading="lazy" src="https://avatars.githubusercontent.com/u/184311525?s=400&u=232d56c0b8a58523fdf6e6afe88724ee38b1d12e&v=4" width=115><br><sub>[Jonathan Oliveira](https://github.com/jonathan0lv)</sub> |
+| :---: |
