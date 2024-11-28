@@ -10,7 +10,7 @@ Este é um projeto de uma simples página de destino (landing page) para NFTs.
 </div>
 
 ## 🌐 Deploy
-[Clique aqui para ver o deploy](https://web-nft-landing-page.netlify.app/)
+🔗[Clique aqui para ver o deploy](https://web-nft-landing-page.netlify.app/)
 
 ## 🧑‍💻 Time
 
