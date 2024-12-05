@@ -1,4 +1,4 @@
-# Nft Landing Page
+# Nft landing page
 
 ## 🖋️ Sobre
 Este é um projeto de uma simples página de destino (landing page) para NFTs.
